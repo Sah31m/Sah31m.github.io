@@ -1,7 +1,7 @@
 var Base_URL = import.meta.env.BASE_URL;
 
 const Data = {
-    About : "Tech professional skilled in programming, troubleshooting, analyst and support. Experienced in Hardware, network setup, and programming with a strong background in LUAU, Python, JavaScript and SQL. Adept at collaboration and dedicated to continuous learning, eager to contribute to innovative projects and teamsuccess.",
+    About : 'Adaptable individual with experience in hardware, software, programming and networking. I began teaching myself programming at 14 on YouTube, which sparked a passion for problem-solving and continuous learning. I combine strong technical knowledge and communication skills, making me well-suited to roles that require problem-solving and collaboration. I’m quick to pick up new technologies on changing demands and sift through various different tools and technologies to contribute. Seeking to apply expertise to deliver reliable support and/or solutions.',
     Github : "https://github.com/Sah31m",
     LinkedIn : "https://www.linkedin.com/in/stephen-whyte-96501b236/",
     Email : "saheimwhyte@gmail.com",
@@ -63,9 +63,9 @@ const Data = {
     },
     Experiences : [
         {
-            Position: "Game Developer",
+            Position: "LUAU / Game Developer",
             Company: "Freelance",
-            Date: "January 2019 - Present",
+            Date: "December 2018 - Present",
             Location: "Remote / London, UK",
             Desc: "When an hobby becomes work, it's a dream come true. I've been developing games on Roblox for over 4 years, and I'm proud to say that I've contributed to games that have collectively amassed over 250 million plays.",
             Skills: ["Luau", "Roblox Studio", "GitHub", "Visual Studio Code", "Team Collaboration"],
@@ -78,7 +78,7 @@ const Data = {
         {
             Position: "Assistant Field Engineer",
             Company: "OpenReach & Private Hires",
-            Date: "March 2022 – October 2024",
+            Date: "March 2024 – October 2025",
             Location: "London, UK",
             Desc: "Shadowed a Senior Field Engineer, gaining hands-on experience in networking, infrastructure, and stakeholder management.",
             Skills: ["Networking", "Infrastructure", "Stakeholder Communication", "Performance Testing"],
